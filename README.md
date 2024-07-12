@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/e-letter.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">Empower Invest</h3>
