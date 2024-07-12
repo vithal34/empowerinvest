@@ -3,7 +3,7 @@
     <img src="./assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Stotra</h3>
+<h1 align="center">Empower Invest</h3>
 
 <p align="center">
     Multiplayer stock trading simulator built with React + MERN 📈
@@ -19,13 +19,6 @@
   </p>
 </div>
 
-| Home                       | Stock View                        |
-| -------------------------- | --------------------------------- |
-| ![Home](./assets/home.png) | ![Stock View](./assets/stock.png) |
-
-| Login                        | Signup                          | Leaderboard                              |
-| ---------------------------- | ------------------------------- | ---------------------------------------- |
-| ![Login](./assets/login.png) | ![Sign up](./assets/signup.png) | ![Leaderboard](./assets/leaderboard.png) |
 
 Stotra is a multiplayer **STO**ck **TRA**ading simulator that allows users to engage in real-time virtual trading of stocks, currencies, and cryptocurrencies. With Stotra, users can practice trading without risking real money, making it an ideal platform for beginners to learn the ropes of trading. The project is powered by AWS, utilizing Amplify for the React frontend and Elastic Cloud Compute for the Express API.
 
