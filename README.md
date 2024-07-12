@@ -8,14 +8,10 @@
 <p align="center">
     Multiplayer stock trading simulator built with React + MERN 📈
     <br />
-    <a href="https://stotra.spike.codes"><strong>View the demo »</strong></a>
     <br />
     <br />
-    <a href="https://stotra.spike.codes/api/docs/">Read API Docs</a>
     ·
-    <a href="https://github.com/spikecodes/stotra/issues">Report Bug</a>
     ·
-    <a href="https://github.com/spikecodes/stotra/issues">Request Feature</a>
   </p>
 </div>
 
@@ -133,11 +129,7 @@ Connected to Database
 
 ## Author
 
-👤 **Spike**
-
-- Website: [spike.codes](https://spike.codes)
-- Twitter: [@spikecodes](https://twitter.com/spikecodes)
-- Github: [@spikecodes](https://github.com/spikecodes)
+👤 **Developed by Vithal Agrawal**
 
 ## Show your support
 
@@ -145,6 +137,4 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Spike](https://github.com/spikecodes).
-
-This project is [MIT License](https://github.com/spikecodes/stotra/blob/main/LICENSE) licensed.
+Copyright © 2023
