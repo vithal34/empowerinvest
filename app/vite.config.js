@@ -5,10 +5,10 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: "0.0.0.0",
+    host: "https://empowerinvest-back.onrender.com",
     proxy: {
       "/api": {
-        target: "https://empowerinvest-back.onrender.com", // Change to your backend URL
+        target: "https://empowerinvest-back.onrender.com:10000", // Change to your backend URL
         changeOrigin: true, // Set to true for cross-domain requests
         secure: true, // Set to true if your backend URL uses HTTPS
         ws: true, // Enable WebSocket proxying
